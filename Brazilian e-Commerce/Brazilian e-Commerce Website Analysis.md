@@ -1,5 +1,5 @@
 # Brazilian e-Commerce Website Data
-## The Data is from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
+## The Data is from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 ### Datasets: 
 * `olist_customers_dataset.csv` as `customers`
 * `olist_geolocation_dataset.csv` as `geolocations`
