@@ -34,6 +34,7 @@
 <br>
 
 ## Queries:
+### The Queries Can be Found in the [SQL](./Brazilian%20e-Commerce.sql) File
 * Number of Customers Per State <br>
 ![First 5 rows of customer count per state](./images/customer_count_per_state.png)
 <br>
