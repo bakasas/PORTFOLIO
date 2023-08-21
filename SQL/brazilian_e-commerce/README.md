@@ -1,5 +1,10 @@
 # Brazilian e-Commerce Website Data
 ## The Data is from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+## Worst Performing State Report: <br>
+
+![5 worst performing states report](./images/Brazilian_e_Commerce-worst_performing_states.png)
+<br>
+
 ## Tables: 
 * `olist_customers_dataset.csv` as `customers` <br>
 ![First 5 rows of customers Table](./images/customers.png)
