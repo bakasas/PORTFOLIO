@@ -1,1 +1,1 @@
-# Images of Data Tables
+# Images of Data Tables and Queries
