@@ -1,1 +1,1 @@
-## Data Analytics with SQL
+# Data Science Projects with SQL
