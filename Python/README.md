@@ -1,1 +1,1 @@
-# Data Analytics with Python
+# Data Science Projects with Python
